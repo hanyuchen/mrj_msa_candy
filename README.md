@@ -2,7 +2,7 @@
 
 Alice Yang, Erica Chen, Jiaxun Song, Yu-Cheng Lin
 
-[Mr.J & Ms.A](http://mrj-and-msa-candy.herokuapp.com/) | github link
+[Mr.J & Ms.A](http://mrj-and-msa-candy.herokuapp.com/) 
 
 **Project Description**
 
